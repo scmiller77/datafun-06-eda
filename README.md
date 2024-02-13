@@ -1,5 +1,5 @@
 # datafun-06-eda
-Module 5
+Module 6 - In this project, we will analyze a data set using jupyter
 
 ## Create a virtual environment
 ```
