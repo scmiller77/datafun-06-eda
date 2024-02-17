@@ -18,6 +18,10 @@ python -m venv .venv
 
 ## Install dependencies 
 ```
-py -m pip install pandas pyarrow seaborn matplotlib
+py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
 ```
 
+## Make a Jupyter file
+```
+Create a .ipynb file
+```
